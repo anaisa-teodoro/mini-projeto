@@ -89,6 +89,7 @@ O Postman é uma ferramenta que dá suporte à documentação das requisições 
 | POST   | http://localhost:3333/tarefas/ |
 | PUT    | http://localhost:3333/tarefas/1 |
 | DELETE | http://localhost:3333/tarefas/3 |
+|PAGINAÇÃO|http://localhost:3333/tarefas?page=1&pageSize=5 | 
 
 <br>
 <br>
