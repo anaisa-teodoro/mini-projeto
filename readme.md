@@ -81,10 +81,20 @@ O Json ou a Schema é a forma de apresentar os dados de tal CRUD. Exemplo da tar
     
 ``` 
 ## Postman
-O Postman é uma ferramenta que dá suporte à documentação das requisições feitas pela API. Executa testes de APIs e requisições em geral. Tais testes estão organizados na ferramenta Postman em uma Collection.Utilizando o Postman, clique em import folder collections para testar os endpoints
+O Postman é uma ferramenta que dá suporte à documentação das requisições feitas pela API. Executa testes de APIs e requisições em geral. Tais testes foram organizados na  em uma Collection para testar os endpoints:
 
-Endpoit
-Get | http://localhost:3333/tarefas/
-Post | http://localhost:3333/tarefas 
-Put | http://localhost:3333/tarefas/1
-Delete | 
+| Método | Endpoint                      |
+|--------|-------------------------------|
+| GET    | http://localhost:3333/tarefas/ |
+| POST   | http://localhost:3333/tarefas/ |
+| PUT    | http://localhost:3333/tarefas/1 |
+| DELETE | http://localhost:3333/tarefas/3 |
+
+<br>
+<br>
+
+---
+
+Módulo 1 | Trello - [M1S10] Mini-Projeto nº 2 - Tarefas por Anaísa Mayara Teodoro da Turma Nature do FuturoDev.
+
+- - -
